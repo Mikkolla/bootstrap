@@ -1,0 +1,138 @@
+ig{
+    max-width: 100%;
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel{
+    max-height: 100vh;
+    height: auto;
+}
+
+.carousel-inner{
+    max-height: 100vh;
+}
+
+.mount{
+    border-radius: 50%;
+    
+}
+
+.mount1{
+    border-radius: 50%;
+    width: 150px;
+}
+
+
+.btn__winter{
+    background-color: rgb(80, 145, 237);
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 8px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn__summer{
+    background-color: rgb(44, 232, 129);
+   border-radius: 3px;
+   padding: 8px;
+   text-decoration: none;
+   color: #fff;
+
+}
+
+.btn__automn{
+    
+   background-color: rgb(208, 179, 49);
+   border-radius: 3px;
+   padding: 8px;
+   text-decoration: none;
+   color: #fff;
+}
+
+.p1__img{
+    border-radius: 20px;
+
+}.mount1:hover{
+    
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    margin-top: 20px;
+    transition:all 0.7s ease ;
+    
+}
+
+.mount1{
+    border-radius: ;
+}
+.smart__parrot{
+    border-radius: 10px;
+}
+.green_parrot{
+    border-radius: 10px;
+}
+.mount1{
+    margin-bottom: 20px;
+}
+
+.forest{
+    width: 50px;
+    height: 50px;
+    padding-right: 20px;
+}
+
+
+
+  .second{
+    margin-top: 50px;
+  }
+
+ 
+
+.carousel{
+    max-height: 100vh;
+    height: 100vh;
+}
+
+.carousel-inner{
+    
+    max-width: 100%;
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.d-block{
+    max-width: 100%;
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.visually-hidden{
+    margin-top: 100px;
+}
+
+.carousel-control-next-icon{
+    margin-bottom: 10px;
+}
+
+.carousel-control-prev-icon{
+    margin-bottom: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
